@@ -14,7 +14,8 @@ This is a light weight laser cat MMO that was built live on stage for a talk at 
 #Building the source
 
 1. Follow the instructions [here] (http://endgate.net/FAQ#question2) to install TypeScript and get you environment setup.
-2. Build :)
+2. Enable nuget package restore (if on < VS2013 and packages aren't being pulled in automagically).  Directions [here] (http://docs.nuget.org/docs/workflows/using-nuget-without-committing-packages).
+3. Build :)
 
 #Tasks to learn and improve the codebase
 
