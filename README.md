@@ -7,6 +7,10 @@ This is a light weight laser cat MMO that was built live on stage for a talk at 
 - This code does not represent "proper" coding techniques due to the fashion in which it was created.
 - This code is not production ready (it wouldn't hold many players if it were published live).  See below for ways to build upon this code set to get it to production level standards.
 
+**Places to learn more:**  
+- SignalR: http://www.asp.net/signalr  
+- EndGate: http://endgate.net/  
+
 #Tasks to learn and improve the codebase
 
 **Note:** I mention ShootR a lot in these tasks however ShootR is not currently using the server version of EndGate (it was just released and I haven't gotten around to updating ShootR);  Therefore for all things that are offered in the EndGate server libraries ShootR implements its own versions.
