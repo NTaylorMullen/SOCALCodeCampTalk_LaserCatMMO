@@ -11,6 +11,11 @@ This is a light weight laser cat MMO that was built live on stage for a talk at 
 - SignalR: http://www.asp.net/signalr  
 - EndGate: http://endgate.net/  
 
+#Building the source
+
+1. Follow the instructions [here] (http://endgate.net/FAQ#question2) to install TypeScript and get you environment setup.
+2. Build :)
+
 #Tasks to learn and improve the codebase
 
 **Note:** I mention ShootR a lot in these tasks however ShootR is not currently using the server version of EndGate (it was just released and I haven't gotten around to updating ShootR);  Therefore for all things that are offered in the EndGate server libraries ShootR implements its own versions.
